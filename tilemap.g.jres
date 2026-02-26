@@ -1,0 +1,37 @@
+{
+    "tile0": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true
+    },
+    "transparency16": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true
+    },
+    "уровень1": {
+        "id": "уровень1",
+        "mimeType": "application/mkcd-tilemap",
+        "data": "MTAxMDAwMTAwMDBiMDgwNTA1MDUwNTA1MDUwNTA1MDUwNTA1MDUwNTA1MDUwODA1MDUwNTA1MDUwNTA4MDgwODA1MDUwNTA4MDgwNTA4MDUwODA4MDUwNTA4MDgwNTA4MDUwNTA1MDUwNTA1MDgwNTA4MDgwNTA4MDgwNTA1MDgwNTA4MDUwODA4MDUwODA4MDgwNTA1MDUwNTA1MDUwODA4MDUwNTA1MDUwNTA4MDgwNTA1MDUwNTA1MDUwNTA4MDgwNTA4MDgwODA1MDgwNTA1MDUwNTA1MDUwNTA1MDUwNTA1MDgwODA4MDUwODA1MDUwNTA4MDgwODA4MDgwODA4MDUwNTA1MDUwNTA4MDUwNTA4MDgwNTA1MDUwNTA1MDgwNTA4MDgwYTA1MDgwNTA1MDUwNTA1MDgwODA4MDgwNTA1MDgwODA4MDUwODA1MDUwODA1MDUwODA1MDUwNTA1MDUwODA1MDUwNTA4MDUwNTA4MDgwNTA1MDUwNTA1MDUwNTA4MDUwNTA1MDgwNTA1MDUwODA1MDgwODA4MDgwODA4MDgwNTA1MDUwODA4MDgwODA4MDUwODA1MDUwNTA1MDUwNTA1MDUwNTA1MDUwNTA1MDUwNTA1MDUwNTA1MDUwNTA1MDUwNTA1MDUwNTA1MDUwNTA1MDUwNTA1MDUwNTA1MDUwNTA1MjAwMDAwMDAwMDAwMDAwMDIwMDAwMDAwMjIwMjAwMjIyMDIwMDIyMDAyMDIwMDAwMjAyMDAyMjIwMDAyMDIyMjIwMjIwMDAwMDAyMjAwMDAyMDAyMDAwMDAwMjIyMDIyMjAwMDAwMDAwMDAwMjAyMjIwMDAyMDIyMjIyMjAwMDAyMDAwMjIwMDAwMjAyMDAyMjAwMDAwMjAyMjAyMjAyMjIwMDAwMjIwMDAwMDIwMDAyMDAwMjIwMDAwMDAyMDAwMjAwMDIwMjAyMjIyMjIwMDIwMjIyMjIwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMA==",
+        "tileset": [
+            "myTiles.tile0",
+            "sprites.builtin.forestTiles0",
+            "sprites.castle.tileGrass3",
+            "sprites.dungeon.chestOpen",
+            "sprites.castle.rock2",
+            "sprites.castle.shrub",
+            "sprites.castle.saplingPine",
+            "sprites.castle.rock0",
+            "sprites.builtin.brick",
+            "sprites.builtin.crowd1",
+            "sprites.dungeon.chestClosed",
+            "sprites.dungeon.collectibleInsignia"
+        ],
+        "displayName": "уровень1"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myTiles"
+    }
+}
