@@ -1,7 +1,7 @@
  
 
 
-> Открыть эту страницу в [https://teachinium.github.io/test_2/](https://teachinium.github.io/test_2/)
+> Открыть эту страницу в [https://teachinium.github.io/Test_2/](https://teachinium.github.io/Test_2/)
 
 ## Использовать это расширение
 
